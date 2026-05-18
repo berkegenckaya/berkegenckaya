@@ -45,13 +45,11 @@
 
 ---
 
-### 🚀 Projects
+### 🚀 Favorite Projects
 
 **[Neural Agents](https://github.com/berkegenckaya)** — Distributed multi-agent AI system with autonomous P2P inter-agent communication and collaboration
 
 **[Kanzz AI Terminal](https://github.com/berkegenckaya)** — AI agent platform for automated social media management and content generation
-
-**[Carbon Footprint Calculator](https://github.com/berkegenckaya)** — AI-powered emissions analyzer providing optimization strategies for businesses and individuals
 
 ---
 
