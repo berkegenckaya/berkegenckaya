@@ -36,12 +36,12 @@
 
 ### 💼 Experience
 
-| Company | Role | Period |
-|---|---|---|
-| 🎙️ **CVOAI** | Co-founder & Tech Lead | 2025 – present |
-| 🧠 **CodeFi AI** | Software Engineer · Tech Lead | 2025 |
-| ⚡ **Kanzz AI** | Full Stack Developer | 2024 – 2025 |
-| ⛓️ **Vuzzmind** | Software Engineer · Web3 Lead | 2023 – 2024 |
+```
+🤖  Built AI-powered products       — voice agents, multi-agent systems, social automation
+⛓️  Architected Web3 solutions      — smart contracts, dApps, decentralized protocols
+🏗️  Led full-stack development      — Next.js + NestJS, from architecture to deployment
+🚀  Co-founded & scaled a startup   — product roadmap, technical strategy, team coordination
+```
 
 ---
 
