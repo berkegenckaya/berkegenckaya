@@ -1,6 +1,6 @@
 # Hi, I'm Berke 👋
 
-I'm a **Software Engineer** focused on building clean, performant web applications. I enjoy turning complex problems into simple, elegant solutions — with a strong eye for detail and scalable architecture.
+I'm a **Full Stack Software Engineer** who has worked across multiple startups — building everything from scalable web platforms to blockchain protocols and AI-powered products.
 
 ---
 
@@ -10,38 +10,53 @@ I'm a **Software Engineer** focused on building clean, performant web applicatio
 ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
 
-**Tools & Platforms**
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
+**Backend**
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat&logo=nestjs&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat&logo=graphql&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white)
+
+**Blockchain & Web3**
+![Solidity](https://img.shields.io/badge/Solidity-363636?style=flat&logo=solidity&logoColor=white)
+![Web3.js](https://img.shields.io/badge/Web3.js-F16822?style=flat&logo=web3dotjs&logoColor=white)
 
 ---
 
 ## 🔭 What I'm Working On
 
-- Building modern web applications with **React** and **Next.js**
-- Exploring **Blockchain** technologies and decentralized application development
-- Improving my depth in **system design** and **software architecture**
+- Co-founding **CVOAI** — an enterprise voice AI platform with voice agents & cloning
+- Building distributed **multi-agent AI systems** with autonomous P2P coordination
+- Exploring the intersection of **AI** and **Web3**
 
 ---
 
-## 📈 GitHub Stats
+## 💼 Experience Highlights
 
-<p align="left">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=berkegenckaya&show_icons=true&theme=default&hide_border=true&count_private=true" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=berkegenckaya&layout=compact&theme=default&hide_border=true" />
-</p>
+- 🤖 **CVOAI** — Co-founder & Tech Lead · *2025–present*
+- 🏗️ **CodeFi AI** — Software Engineer (Tech Lead) · *2025*
+- 🧠 **Kanzz AI** — Full Stack Developer · *2024–2025*
+- ⛓️ **Vuzzmind** — Software Engineer (Web3 Lead) · *2023–2024*
+
+---
+
+## 🚀 Notable Projects
+
+**Neural Agents** — Distributed multi-agent system with P2P inter-agent communication
+
+**Kanzz AI Terminal** — AI agent platform for automated social media management
+
+**Carbon Footprint Calculator** — AI-powered emissions analyzer for sustainability optimization
 
 ---
 
 ## 📫 Get in Touch
 
-- GitHub: [@berkegenckaya](https://github.com/berkegenckaya)
-- LinkedIn: [linkedin.com/in/berkegenckaya](https://linkedin.com/in/berkegenckaya)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/berkegenckaya)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:berkegenckaya@gmail.com)
 
 ---
 
