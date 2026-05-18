@@ -53,7 +53,7 @@
 
 ---
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=berkegenckaya&layout=compact&hide_border=true&theme=default)
+![Streak](https://github-readme-streak-stats.herokuapp.com/?user=berkegenckaya&theme=default&hide_border=true)
 
 ---
 
