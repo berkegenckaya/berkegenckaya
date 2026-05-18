@@ -53,7 +53,7 @@
 
 ---
 
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=berkegenckaya&theme=default&hide_border=true)
+![Streak](https://github-readme-streak-stats.herokuapp.com/?user=berkegenckaya&theme=dark&hide_border=true)
 
 ---
 
